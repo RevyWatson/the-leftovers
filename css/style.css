@@ -9,3 +9,20 @@ body {
     background-position: center;
     background-size: cover;
 }
+
+.big-text {
+    color: white;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
