@@ -1,0 +1,22 @@
+{
+  "name": "the-leftovers",
+  "version": "1.0.0",
+  "description": "your local restaurant reservation tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RevyWatson/the-leftovers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RevyWatson/the-leftovers/issues"
+  },
+  "homepage": "https://github.com/RevyWatson/the-leftovers#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
