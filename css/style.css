@@ -26,3 +26,9 @@ body {
     margin-top: 25px;
 }
 
+.top-jumbo {
+    background-color: rgba(21, 168, 161, 0.493);
+    color: white;
+    /* border-radius: 2%; */
+}
+
